@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sclWeb/static/css/main.1d8cad2f.css",
+    "main.js": "/sclWeb/static/js/main.ababa74f.js",
+    "static/js/787.56b61134.chunk.js": "/sclWeb/static/js/787.56b61134.chunk.js",
+    "index.html": "/sclWeb/index.html",
+    "main.1d8cad2f.css.map": "/sclWeb/static/css/main.1d8cad2f.css.map",
+    "main.ababa74f.js.map": "/sclWeb/static/js/main.ababa74f.js.map",
+    "787.56b61134.chunk.js.map": "/sclWeb/static/js/787.56b61134.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d8cad2f.css",
+    "static/js/main.ababa74f.js"
+  ]
+}
