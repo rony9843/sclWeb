@@ -1,0 +1,35 @@
+/* width */
+::-webkit-scrollbar {
+    width: 20px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+   
+    display: none;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #8C61FF; 
+    border-radius: 10px;
+  }
+  
+ 
+.data-list{
+    padding: 10px;
+    background-color: white;
+    margin: 10px 0;
+    box-shadow: 0 1px 3px #b8d4ff;
+    border-radius: 5px;
+    font-size: 18;
+    font-family: Poppins;
+   
+}
+.data-list-span{
+    color:#775DCE;
+}
+.data-list-user-info{
+    font-weight: 600;
+    color:#775DCE;
+}
